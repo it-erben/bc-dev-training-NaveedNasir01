@@ -1,0 +1,27 @@
+{
+  "id": "e1a2b3c4-d5e6-f7a8-b9c0-d1e2f3a4b5c6",
+  "name": "Training App",
+  "publisher": "Training Teilnehmer",
+  "version": "1.0.0.0",
+  "brief": "Minimale Trainings-App für den Git/GitHub-Actions-Kurs",
+  "description": "Diese App dient als Beispielprojekt im Kurs. Bitte passe id, name und publisher an.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "platform": "26.0.0.0",
+  "runtime": "15.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  }
+}

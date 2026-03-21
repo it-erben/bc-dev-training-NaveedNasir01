@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Training Sandbox",
+      "type": "al",
+      "request": "launch",
+      "server": "https://businesscentral.dynamics.com",
+      "serverInstance": "BC",
+      "authentication": "AAD",
+      "environmentType": "Sandbox",
+      "environmentName": "training-sandbox",
+      "tenant": "2aaa2bc7-0df3-4a55-a7b5-2d07cccb470d",
+      "startupObjectId": 50100,
+      "startupObjectType": "Page",
+      "breakOnError": "All",
+      "launchBrowser": true,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true
+    }
+  ]
+}
