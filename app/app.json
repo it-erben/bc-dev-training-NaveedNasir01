@@ -1,7 +1,7 @@
 {
-  "id": "e1a2b3c4-d5e6-f7a8-b9c0-d1e2f3a4b5c6",
-  "name": "Training App",
-  "publisher": "Training Teilnehmer",
+  "id": "00000000-0000-0000-0000-000000000006",
+  "name": "Training App nasir",
+  "publisher": "nasir",
   "version": "1.0.0.0",
   "brief": "Minimale Trainings-App für den Git/GitHub-Actions-Kurs",
   "description": "Diese App dient als Beispielprojekt im Kurs. Bitte passe id, name und publisher an.",
@@ -15,8 +15,8 @@
   "application": "26.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 50350,
+      "to": 50399
     }
   ],
   "resourceExposurePolicy": {

@@ -1,4 +1,4 @@
-permissionset 50100 "Training App"
+permissionset 50350 "Training App"
 {
     Caption = 'Training App';
     Assignable = true;
