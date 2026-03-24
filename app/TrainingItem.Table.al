@@ -18,6 +18,13 @@ table 50350 "Training Item"
         {
             Caption = 'Erledigt';
         }
+        field(4; "Priority"; Option)
+        {
+            Caption = 'Prioritaet';
+            OptionMembers = Low,Medium,High;
+            OptionCaption = 'Niedrig,Mittel,Hoch';
+        }
+
     }
 
     keys
