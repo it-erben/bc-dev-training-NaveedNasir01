@@ -28,7 +28,6 @@ page 50350 "Training Items"
                 {
                     ApplicationArea = All;
                 }
-
             }
         }
     }
