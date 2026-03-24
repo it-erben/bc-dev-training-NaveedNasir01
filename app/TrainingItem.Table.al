@@ -24,6 +24,10 @@ table 50350 "Training Item"
             OptionMembers = Low,Medium,High;
             OptionCaption = 'Niedrig,Mittel,Hoch';
         }
+        field(3; "Not Completed"; Boolean)
+        {
+            Caption = 'Not Erledigt';
+        }
 
     }
 

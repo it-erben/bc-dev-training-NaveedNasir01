@@ -28,6 +28,10 @@ page 50350 "Training Items"
                 {
                     ApplicationArea = All;
                 }
+                field("Not Completed"; Rec."Not Completed")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }
