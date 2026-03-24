@@ -24,6 +24,14 @@ page 50350 "Training Items"
                 {
                     ApplicationArea = All;
                 }
+                field(Priority; Rec.Priority)
+                {
+                    ApplicationArea = All;
+                }
+                field("Not Completed"; Rec."Not Completed")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }
